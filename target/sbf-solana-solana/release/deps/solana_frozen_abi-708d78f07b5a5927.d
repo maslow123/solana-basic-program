@@ -1,0 +1,10 @@
+/Users/mac/development/me/Exercise/Xk8AydbClG3wFpjVm0/coding/solana_basic_program/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-708d78f07b5a5927.rmeta: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/abi_digester.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/abi_example.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/hash.rs
+
+/Users/mac/development/me/Exercise/Xk8AydbClG3wFpjVm0/coding/solana_basic_program/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-708d78f07b5a5927.rlib: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/abi_digester.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/abi_example.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/hash.rs
+
+/Users/mac/development/me/Exercise/Xk8AydbClG3wFpjVm0/coding/solana_basic_program/target/sbf-solana-solana/release/deps/solana_frozen_abi-708d78f07b5a5927.d: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/abi_digester.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/abi_example.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/hash.rs
+
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/lib.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/abi_digester.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/abi_example.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.2/src/hash.rs:
